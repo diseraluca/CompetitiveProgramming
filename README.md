@@ -2,7 +2,7 @@
 A repository for my solutions to competitive programming problems exercise.
 
 
-This repository will contain all of my soloutions to some competitive programming problems that I'm tackling as an exercise in the small free time from my free-study time I can find.
+This repository will contain all of my solutions to some competitive programming problems that I'm tackling as an exercise in the small free time from my free-study time I can find.
 The problems will mainly come from *UVa Online Judges* or *Hackerranks*, with an idea to move to *Codeforce* and/or *ProjectEuler* too at some point in time.
 
 The main language for the solution will be *C++* but, as an additional exercise and a form of learning, I'm trying to solve, and as such provide, solutions in the *Factor* programming language too. 
