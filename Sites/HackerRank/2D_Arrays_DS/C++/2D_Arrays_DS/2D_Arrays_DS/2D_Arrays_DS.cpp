@@ -13,6 +13,7 @@
 #include <iostream>
 #include <iterator>
 #include <array>
+#include <algorithm>
 
 const int MATRIX_SIZE{ 6 };
 const int HOURGLASS_CENTER_MIN{ 1 };
